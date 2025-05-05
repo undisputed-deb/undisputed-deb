@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Debashrestha Nandi GitHub Banner" style="width:100%;"/>
+
 ### 👋 Hi, I'm Debashrestha Nandi
 
 🎓 Computer Science student at City College of New York (CCNY)  
