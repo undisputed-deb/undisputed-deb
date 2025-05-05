@@ -1,4 +1,5 @@
-<img src="assets/banner.png" alt="Debashrestha Nandi GitHub Banner" style="width:100%;"/>
+<img src="banner.png" alt="Debashrestha Nandi GitHub Banner" style="width:100%;" />
+
 
 ### 👋 Hi, I'm Debashrestha Nandi
 
