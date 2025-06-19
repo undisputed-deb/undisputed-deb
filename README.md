@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 Tech Stack
+###  Tech Stack
 
 - **Languages**: Python, C++, HTML, CSS, JavaScript  
 - **Frameworks**: Flask, React, Firebase  
