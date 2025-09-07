@@ -30,9 +30,9 @@
 **🎓 Computer Science Student** at The City College of New York | **4.0 GPA**  
 **💼 Data Engineering Intern** @ Thrift Label (Blackstone)  
 **🏢 Web Accessibility & Digital Systems Intern** @ Baxter St. Camera Club  
-**👨‍💼 Founder & CEO** @ D.S Tutoring Center  
+**👨‍💼 Chief Technical Officer** @ D.S Tutoring Center  
 
-Building scalable applications that solve real-world problems. I've helped increase backend performance by **25%**, generated **$25K+ revenue** in 18 months, and improved student test scores by an average of **180 points** with a **95% pass rate**.
+Building innovative solutions that drive measurable impact. I've optimized backend systems for **25% performance gains**, scaled a tutoring business to **$25K+ revenue** in 18 months, and helped students achieve an average **180-point improvement** in test scores with a **95% pass rate**.
 
 ---
 
