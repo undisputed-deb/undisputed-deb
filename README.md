@@ -1,127 +1,169 @@
-# Hi there, I'm Debashrestha Nandi 👋
+# Debashrestha Nandi
 
-<div align="center">
+**Full-Stack Developer | Data Engineer | AI/ML Enthusiast**
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║    ██████╗ ███████╗██████╗  █████╗ ███████╗██╗  ██╗██████╗ ███████╗     ║
-║    ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗██╔════╝     ║
-║    ██║  ██║█████╗  ██████╔╝███████║███████╗███████║██████╔╝█████╗       ║
-║    ██║  ██║██╔══╝  ██╔══██╗██╔══██║╚════██║██╔══██║██╔══██╗██╔══╝       ║
-║    ██████╔╝███████╗██████╔╝██║  ██║███████║██║  ██║██║  ██║███████╗     ║
-║    ╚═════╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝     ║
-║                                                                          ║
-║        🚀 Full-Stack Developer | Data Engineer | AI Enthusiast           ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+Computer Science Student at The City College of New York | Currently interning at Baxter St. Camera Club & Thrift Label (Blackstone Launchpad)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-debportfolio.vercel.app-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://debportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debashrestha-nandi-a789a1340)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debshrestho/)
 [![Email](https://img.shields.io/badge/Email-deb86011@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deb86011@gmail.com)
 
-</div>
+---
+
+## About Me
+
+I'm a Computer Science student passionate about building scalable solutions that drive measurable impact. Currently working as a Data Engineering Intern at Thrift Label and Web Accessibility Intern at Baxter St. Camera Club, where I've optimized systems for 25% performance gains and implemented WCAG 2.1 AA compliance for 500+ digital assets.
+
+As Chief Technical Officer at D.S Tutoring Center, I scaled operations to generate $25K+ revenue in 8 months while maintaining a 95% pass rate across 120+ students.
+
+**Current Focus:** Machine Learning, Data Engineering, Full-Stack Development, Cloud Architecture
 
 ---
 
-## 🎯 About Me
+## Tech Stack
 
-**🎓 Computer Science Student** at The City College of New York | **4.0 GPA**  
-**💼 Data Engineering Intern** @ Thrift Label (Blackstone)  
-**🏢 Web Accessibility & Digital Systems Intern** @ Baxter St. Camera Club  
-**👨‍💼 Chief Technical Officer** @ D.S Tutoring Center  
+**Languages:** Python, C++, JavaScript, TypeScript, SQL, HTML/CSS
 
-Building innovative solutions that drive measurable impact. I've optimized backend systems for **25% performance gains**, scaled a tutoring business to **$25K+ revenue** in 18 months, and helped students achieve an average **180-point improvement** in test scores with a **95% pass rate**.
+**Frameworks & Libraries:** React.js, Next.js, Flask, Django, Tailwind CSS, Node.js
 
----
+**Data & ML:** scikit-learn, pandas, NumPy, TensorFlow, PyTorch, XGBoost, Matplotlib, seaborn, SMOTE
 
-## 🛠️ Tech Stack
+**Databases:** MongoDB, PostgreSQL, Firebase, Supabase, MySQL
 
-### Languages & Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Cloud & DevOps:** AWS, GCP, Azure, Docker, CI/CD Pipelines, Git/GitHub
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Data & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00ACC1?style=flat-square&logo=google&logoColor=white)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+**Tools:** Scrapy, Selenium, PyTest, OpenCV, MediaPipe, Power BI
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 [IceBrAIker - AI RAG Project](https://deb-icebraiker.netlify.app/) 
-**Live Demo** | React, TypeScript, Supabase, Gemini AI, Tavily API
+### [Credit Card Fraud Detection System](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
+**Python | scikit-learn | pandas | XGBoost | SMOTE | matplotlib | seaborn**
 
-**Impact:** 70% improvement in context retrieval accuracy, 80% reduction in generic outputs
-- Built Retrieval-Augmented Generation pipeline with tone-aware AI icebreaker generation
-- Implemented Supabase Edge Functions with 40% query latency reduction
-- Achieved 45% increase in user engagement through personalized content
+Comprehensive fraud detection system implementing 9 ML algorithms with ensemble methods to identify fraudulent credit card transactions.
 
-### 📊 [AI Resume Analyzer](https://github.com/undisputed-deb/AI-Resume-Analyzer)
-**Flask, Python, NLP, Google Gemini AI**
+**Key Achievements:**
+- 97.4% ROC-AUC score and 99.7% accuracy on 284K+ transactions
+- 91.8% fraud detection rate with only 2.4% false positives
+- Handled severe class imbalance (577:1 ratio) using SMOTE techniques
+- Sub-2 second prediction time per transaction
+- $6,570 estimated savings per 100 fraud attempts
 
-**Impact:** 95% analysis accuracy, 60% faster recruiter screening
-- Advanced NLP algorithms for ATS compatibility and keyword matching
-- Dynamic Flask dashboard with visual scoring and personalized suggestions
-- 35% improvement in candidate match quality
+**Technical Implementation:**
+- Multiple algorithms: Random Forest, Gradient Boosting, XGBoost, SVM, Neural Networks
+- Advanced class balancing: SMOTE, undersampling, SMOTE-Tomek
+- Stratified cross-validation for robust evaluation
+- Comprehensive visualization dashboard with ROC curves, confusion matrices, feature importance
+- Business impact analysis with cost-benefit modeling
 
-### 🎙️ [AI Meeting Notes Automation](https://github.com/undisputed-deb/AI-Meeting-Notes)
-**Python, React, Google Gemini AI, MongoDB**
-
-**Impact:** 40% team productivity increase, 95% faster insights
-- Full-stack dashboard with audio transcription and sentiment analysis
-- One-click PDF report generation with 99.9% data reliability
-- Real-time keyword tagging and action item detection
-
-### 🎨 [Collaborative Design Studio](https://sketch-together.netlify.app/)
-**Live Demo** | React, TypeScript, Next.js, Canvas API, WebSockets
-
-**Impact:** 3x performance improvement, 85% user retention increase
-- 60fps canvas rendering with optimized drawing algorithms
-- Real-time collaboration with WebSockets and zero data loss auto-save
-- AI-powered magic studio tools integration
-
-### 🎯 [Touchless Interface & Virtual Keyboard](https://github.com/undisputed-deb/touchless-interface)
-**Python, OpenCV, MediaPipe**
-
-**Innovation:** Hands-free computer interaction
-- Revolutionary gesture-controlled drag-and-drop interface
-- Real-time hand tracking with precision finger detection
-- Accessibility-focused design for enhanced user experience
+[View Project →](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
 
 ---
 
-## 📊 GitHub Stats
+### [IceBrAIker - AI RAG Project](https://deb-icebraiker.netlify.app/)
+**React | TypeScript | Supabase | Gemini AI | Tavily API**
 
-<div align="center">
+Retrieval-Augmented Generation pipeline for tone-aware AI icebreaker generation.
+
+**Impact:**
+- 70% improvement in context retrieval accuracy
+- 80% reduction in generic outputs (from 80% to 20%)
+- 45% increase in user engagement
+- 40% query latency reduction
+
+**Features:**
+- Gemini + Tavily + Supabase/pgvector integration
+- React + Tailwind UI with animated backgrounds
+- Supabase Edge Functions with RESTful API
+
+[Live Demo →](https://deb-icebraiker.netlify.app/) | [View Code →](https://github.com/undisputed-deb)
+
+---
+
+### [AI Meeting Notes Automation](https://github.com/undisputed-deb/ai-meeting-notes)
+**Python | TypeScript | React | NLP | MongoDB**
+
+Full-stack dashboard with AI-powered transcription and summarization for meeting automation.
+
+**Impact:**
+- 40% team productivity improvement
+- 95% faster reporting time
+- 99.9% transcript reliability
+- 2x action item detection speed
+
+**Features:**
+- Gemini-powered transcription and summarization
+- One-click PDF export functionality
+- Sentiment analysis and keyword tagging
+- Scalable MongoDB Atlas architecture
+
+[View Project →](https://github.com/undisputed-deb/ai-meeting-notes)
+
+---
+
+### [AI Resume Analyzer](https://github.com/undisputed-deb/AI-Resume-Analyzer)
+**Flask | Python | NLP | Google Gemini AI**
+
+NLP-powered resume analyzer with instant ATS compatibility scoring and personalized feedback.
+
+**Impact:**
+- 95% parsing accuracy (improved from 85%)
+- 60% faster recruiter evaluation time
+- 35% improvement in candidate-role match rate
+
+**Features:**
+- Advanced NLP algorithms for keyword matching
+- Real-time scoring dashboard
+- Dynamic PDF export with visual analytics
+- Personalized keyword suggestions
+
+[View Project →](https://github.com/undisputed-deb/AI-Resume-Analyzer)
+
+---
+
+### [Collaborative Design Studio](https://sketch-together.netlify.app/)
+**React | TypeScript | Next.js | Canvas API | WebSockets**
+
+Real-time collaborative design platform with optimized canvas rendering.
+
+**Impact:**
+- 3x performance improvement over standard implementations
+- 85% user retention increase
+- Zero data loss with auto-save
+
+**Features:**
+- 60fps canvas rendering with optimized algorithms
+- Real-time collaboration with WebSockets
+- Interactive mapping applications
+- AI-powered design tools
+
+[Live Demo →](https://sketch-together.netlify.app/)
+
+---
+
+## Professional Experience
+
+**Web Accessibility & Digital Systems Intern** | Baxter St. Camera Club | Aug 2025 - Present
+- Implementing WCAG 2.1 AA compliance for 500+ assets with 85% coverage improvement
+- Designing API workflows with Firestore/Cloud Functions reducing ETL errors by 40%
+- Setting up CI/CD pipelines with Azure DevOps reducing deployment failures by 20%
+
+**Data Engineering Intern** | Thrift Label (Blackstone Launchpad) | Jun 2025 - Aug 2025
+- Built scalable ETL pipelines processing 10K+ listings/day with 60% processing time reduction
+- Integrated Algolia search into MongoDB + GCP pipelines sustaining 50K+ queries/day
+- Automated dashboards saving 16 hours/week across 3 teams
+- Implemented CI/CD testing improving defect detection by 30%
+- Optimized query performance by 2.3x on 10M+ records using Databricks + PySpark
+
+**Chief Technical Officer** | D.S Tutoring Center | Mar 2024 - Present
+- Generated $25K+ revenue in 8 months while maintaining 95% pass rate
+- Built automated grading dashboards for 120+ students reducing workload by 80%
+- Developed exam management portal streamlining operations for 7 staff members
+
+---
+
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=undisputed-deb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -129,103 +171,42 @@ Building innovative solutions that drive measurable impact. I've optimized backe
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=undisputed-deb&theme=tokyonight&hide_border=true)
 
-</div>
+---
+
+## Key Achievements
+
+- **97.4% ROC-AUC** - Credit Card Fraud Detection System
+- **$25K+ Revenue** - D.S Tutoring Center (8 months)
+- **10K+ Daily Processing** - ETL Pipelines at Thrift Label
+- **85% Coverage** - WCAG Accessibility Implementation
+- **40% Productivity Boost** - AI Meeting Notes Automation
+- **60% Time Reduction** - Backend Processing Optimization
 
 ---
 
-## 💼 Professional Experience
+## Currently Learning
 
-### 🏢 Data Engineering Intern | **Thrift Label (Blackstone)** | Jun - Aug 2025
-- **Performance:** Built scalable ETL pipelines processing **10K+ listings daily** with **25% backend improvement**
-- **Efficiency:** Reduced backend-to-frontend latency by **35%** through JSON architecture optimization
-- **Quality:** Achieved **30% improvement** in defect detection with PyTest/Selenium CI/CD workflows
-- **Scale:** Architected Firebase/Google Cloud pipelines supporting **300% increase** in data processing
-
-### 🎨 Web Accessibility & Digital Systems Intern | **Baxter St. Camera Club** | Aug 2025 - Present
-- **Accessibility:** Implement WCAG 2.1 AA compliance for **500+ digital assets** with **85% coverage improvement**
-- **Integration:** Develop Bloomberg Connects API features with **45% user engagement increase**
-- **Efficiency:** Create automated documentation systems reducing manual processing by **70%**
-- **Innovation:** Build cross-platform content distribution with RESTful APIs
-
-### 👨‍💼 Founder & CEO | **D.S Tutoring Center** | Mar 2024 - Present
-- **Impact:** Generated **$25K+ revenue** in 18 months while maintaining **95% pass rate**
-- **Growth:** Expanded to **100+ active students** with **60% enrollment growth**
-- **Leadership:** Manage 7 staff members and automated grading for **120+ students**
-- **Results:** Achieved **180-point average** test score improvement with **30% satisfaction increase**
+- Advanced Machine Learning & Deep Learning
+- Cloud Architecture (AWS, Azure, GCP)
+- Data Engineering with Apache Spark
+- DevOps & Containerization (Docker, Kubernetes)
 
 ---
 
-## 🎯 Key Achievements
+## Let's Connect
 
-<div align="center">
+**Based in Bronx, NY | Open to Remote Opportunities**
 
-| Metric | Achievement | Context |
-|--------|-------------|---------|
-| 🚀 **Backend Performance** | **+25%** | Thrift Label ETL pipelines |
-| 💰 **Revenue Generated** | **$25K+** | D.S Tutoring Center (18 months) |
-| 📈 **Productivity Boost** | **+40%** | AI Meeting Notes automation |
-| 🎯 **Test Score Improvement** | **+180 pts** | Student performance average |
-| 📊 **Data Processing** | **10K+ daily** | Product listings automation |
-| 🔍 **AI Accuracy** | **95%** | Resume analysis precision |
-| ⚡ **Latency Reduction** | **-35%** | Backend optimization |
-| 📋 **Admin Efficiency** | **-90%** | Automated workflows |
+Available for: Internships | Full-time Opportunities | Collaborations | Open Source Projects
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://debportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/debshrestho/)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:deb86011@gmail.com)
 
 ---
 
-## 🌱 Currently Learning
-
-- **Advanced Machine Learning** - Deep learning, neural networks, computer vision
-- **Cloud Architecture** - AWS, containerization, microservices
-- **DevOps Practices** - CI/CD, Docker, Kubernetes
-- **Data Engineering** - Apache Spark, real-time processing, data warehousing
-
----
-
-## 📈 What I'm Working On
-
-```python
-class CurrentFocus:
-    def __init__(self):
-        self.projects = [
-            "Advanced AI Chatbot with multimodal capabilities",
-            "Real-time analytics platform with predictive modeling",
-            "Full-stack SaaS platform with microservices"
-        ]
-        
-        self.goals = [
-            "Contributing to open-source AI research",
-            "Building products that impact millions",
-            "Launching successful tech startup"
-        ]
-        
-        self.passion = "Solving real-world problems with innovative technology"
-    
-    def mission(self):
-        return "Building AI-powered tools that make technology accessible for everyone"
-```
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-**🌍 Based in Bronx, NY | 🚀 Open to Remote Opportunities**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://debportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/debashrestha-nandi-a789a1340)
-[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:deb86011@gmail.com)
-
-**💡 Available for:** Internships | Full-time Opportunities | Collaborations | Open Source
-
----
-
-### *"Code with purpose. Build with meaning. Impact with innovation."*
+**"Building innovative solutions that drive measurable impact"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=undisputed-deb&color=blueviolet&style=flat-square)
 
-⭐ **If you find my work interesting, don't forget to star the repositories!**
-
-</div>
+If you find my work interesting, please star the repositories!
