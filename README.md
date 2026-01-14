@@ -1,169 +1,113 @@
-# Debashrestha Nandi
+<div align="center">
 
-**Full-Stack Developer | Data Engineer | AI/ML Enthusiast**
+# 🚀 yo, i'm deb
 
-Computer Science Student at The City College of New York | Currently interning at Baxter St. Camera Club & Thrift Label (Blackstone Launchpad)
+**breaking stuff and (sometimes) fixing it**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-debportfolio.vercel.app-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://debportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debshrestho/)
-[![Email](https://img.shields.io/badge/Email-deb86011@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deb86011@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_check_out_my_work-FF5722?style=for-the-badge)](https://debshrestho-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/let's_connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/debshrestho/)
+[![Email](https://img.shields.io/badge/slide_into_my_inbox-D14836?style=for-the-badge&logo=gmail)](mailto:deb86011@gmail.com)
 
----
-
-## About Me
-
-I'm a Computer Science student passionate about building scalable solutions that drive measurable impact. Currently working as a Data Engineering Intern at Thrift Label and Web Accessibility Intern at Baxter St. Camera Club, where I've optimized systems for 25% performance gains and implemented WCAG 2.1 AA compliance for 500+ digital assets.
-
-As Chief Technical Officer at D.S Tutoring Center, I scaled operations to generate $25K+ revenue in 8 months while maintaining a 95% pass rate across 120+ students.
-
-**Current Focus:** Machine Learning, Data Engineering, Full-Stack Development, Cloud Architecture
+</div>
 
 ---
 
-## Tech Stack
+## 👨‍💻 what's good
 
-**Languages:** Python, C++, JavaScript, TypeScript, SQL, HTML/CSS
+CS student @ CCNY who actually enjoys debugging (yeah, i know, weird flex). currently vibing as a web accessibility intern @ baxter st. camera club and was just chilling as a data engineering intern @ thrift label.
 
-**Frameworks & Libraries:** React.js, Next.js, Flask, Django, Tailwind CSS, Node.js
+built some cool stuff that people actually use. ran a tutoring center as CTO that pulled in $35K+ while keeping 95% of students passing (because who doesn't love those numbers?).
 
-**Data & ML:** scikit-learn, pandas, NumPy, TensorFlow, PyTorch, XGBoost, Matplotlib, seaborn, SMOTE
-
-**Databases:** MongoDB, PostgreSQL, Firebase, Supabase, MySQL
-
-**Cloud & DevOps:** AWS, GCP, Azure, Docker, CI/CD Pipelines, Git/GitHub
-
-**Tools:** Scrapy, Selenium, PyTest, OpenCV, MediaPipe, Power BI
+**currently obsessed with:** ML models that don't suck, building APIs that actually make sense, and making the web accessible for everyone
 
 ---
 
-## Featured Projects
+## 🛠️ tech i mess with
 
-### [Credit Card Fraud Detection System](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
-**Python | scikit-learn | pandas | XGBoost | SMOTE | matplotlib | seaborn**
-
-Comprehensive fraud detection system implementing 9 ML algorithms with ensemble methods to identify fraudulent credit card transactions.
-
-**Key Achievements:**
-- 97.4% ROC-AUC score and 99.7% accuracy on 284K+ transactions
-- 91.8% fraud detection rate with only 2.4% false positives
-- Handled severe class imbalance (577:1 ratio) using SMOTE techniques
-- Sub-2 second prediction time per transaction
-- $6,570 estimated savings per 100 fraud attempts
-
-**Technical Implementation:**
-- Multiple algorithms: Random Forest, Gradient Boosting, XGBoost, SVM, Neural Networks
-- Advanced class balancing: SMOTE, undersampling, SMOTE-Tomek
-- Stratified cross-validation for robust evaluation
-- Comprehensive visualization dashboard with ROC curves, confusion matrices, feature importance
-- Business impact analysis with cost-benefit modeling
-
-[View Project →](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
+```javascript
+const deb = {
+    code: ["Python", "Java", "TypeScript", "C++", "JavaScript"],
+    backend: ["Spring Boot", "Flask", "Django", "Node.js"],
+    frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS"],
+    databases: ["PostgreSQL", "MongoDB", "Supabase", "Firebase"],
+    cloud: ["AWS", "GCP", "Azure", "Docker"],
+    ai_ml: ["scikit-learn", "XGBoost", "Google Gemini", "RAG systems"],
+    data: ["ETL Pipelines", "Pandas", "Web Scraping", "Algolia"],
+    currentlyLearning: "advanced ML & cloud architecture",
+    funFact: "i can spot a 404 error from a mile away"
+};
+```
 
 ---
 
-### [IceBrAIker - AI RAG Project](https://deb-icebraiker.netlify.app/)
-**React | TypeScript | Supabase | Gemini AI | Tavily API**
+## 🔥 stuff i've built (that actually works)
 
-Retrieval-Augmented Generation pipeline for tone-aware AI icebreaker generation.
+### 🎯 [Credit Card Fraud Detection System](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
+**the one where i caught the bad guys**
 
-**Impact:**
-- 70% improvement in context retrieval accuracy
-- 80% reduction in generic outputs (from 80% to 20%)
-- 45% increase in user engagement
-- 40% query latency reduction
+built an ML system that's better at spotting fraud than most humans. 99.7% accuracy across 284K transactions, catching 91.8% of fraud with barely any false alarms. saved an estimated $6,570 per 100 fraud attempts. 
 
-**Features:**
-- Gemini + Tavily + Supabase/pgvector integration
-- React + Tailwind UI with animated backgrounds
-- Supabase Edge Functions with RESTful API
-
-[Live Demo →](https://deb-icebraiker.netlify.app/) | [View Code →](https://github.com/undisputed-deb)
+*used:* Python, XGBoost, scikit-learn, SMOTE, the whole ML toolbox
 
 ---
 
-### [AI Meeting Notes Automation](https://github.com/undisputed-deb/ai-meeting-notes)
-**Python | TypeScript | React | NLP | MongoDB**
+### 🤖 [All-in-One Tools](https://github.com/undisputed-deb/all-in-one-tools)
+**because who doesn't need 10+ tools in one place**
 
-Full-stack dashboard with AI-powered transcription and summarization for meeting automation.
+threw together a productivity suite that actually makes life easier. PDF tools, image converters, text utilities - basically everything you didn't know you needed until 2am before a deadline.
 
-**Impact:**
-- 40% team productivity improvement
-- 95% faster reporting time
-- 99.9% transcript reliability
-- 2x action item detection speed
-
-**Features:**
-- Gemini-powered transcription and summarization
-- One-click PDF export functionality
-- Sentiment analysis and keyword tagging
-- Scalable MongoDB Atlas architecture
-
-[View Project →](https://github.com/undisputed-deb/ai-meeting-notes)
+*used:* TypeScript, React, Next.js, a lot of coffee
 
 ---
 
-### [AI Resume Analyzer](https://github.com/undisputed-deb/AI-Resume-Analyzer)
-**Flask | Python | NLP | Google Gemini AI**
+### ✨ [PromptPower](https://github.com/undisputed-deb/PromptPower)
+**making AI prompts not suck**
 
-NLP-powered resume analyzer with instant ATS compatibility scoring and personalized feedback.
+production-ready tool that transforms your basic AI prompts into something that actually gets you good results. IP-based rate limiting, XSS protection, persistent storage - all the security stuff you need but don't want to build.
 
-**Impact:**
-- 95% parsing accuracy (improved from 85%)
-- 60% faster recruiter evaluation time
-- 35% improvement in candidate-role match rate
-
-**Features:**
-- Advanced NLP algorithms for keyword matching
-- Real-time scoring dashboard
-- Dynamic PDF export with visual analytics
-- Personalized keyword suggestions
-
-[View Project →](https://github.com/undisputed-deb/AI-Resume-Analyzer)
+*used:* Next.js 15, React 19, Gemini API, TypeScript
 
 ---
 
-### [Collaborative Design Studio](https://sketch-together.netlify.app/)
-**React | TypeScript | Next.js | Canvas API | WebSockets**
+### 🧊 [IceBrAIker](https://deb-icebraiker.netlify.app/)
+**AI-powered conversation starters that don't make you cringe**
 
-Real-time collaborative design platform with optimized canvas rendering.
+RAG pipeline that generates context-aware icebreakers. 70% better retrieval accuracy, 80% less generic garbage, 45% more user engagement. actually fun to use.
 
-**Impact:**
-- 3x performance improvement over standard implementations
-- 85% user retention increase
-- Zero data loss with auto-save
-
-**Features:**
-- 60fps canvas rendering with optimized algorithms
-- Real-time collaboration with WebSockets
-- Interactive mapping applications
-- AI-powered design tools
-
-[Live Demo →](https://sketch-together.netlify.app/)
+*used:* React, TypeScript, Supabase, Gemini AI, Tavily API, pgvector
 
 ---
 
-## Professional Experience
+### 🌱 [Food Waste Management System](https://github.com/undisputed-deb/Food-Waste-Management)
+**saving the planet, one meal at a time**
 
-**Web Accessibility & Digital Systems Intern** | Baxter St. Camera Club | Aug 2025 - Present
-- Implementing WCAG 2.1 AA compliance for 500+ assets with 85% coverage improvement
-- Designing API workflows with Firestore/Cloud Functions reducing ETL errors by 40%
-- Setting up CI/CD pipelines with Azure DevOps reducing deployment failures by 20%
+full-stack platform tracking food waste from generation to composting. role-based access control, real-time analytics, containerized deployment. actually making a difference.
 
-**Data Engineering Intern** | Thrift Label (Blackstone Launchpad) | Jun 2025 - Aug 2025
-- Built scalable ETL pipelines processing 10K+ listings/day with 60% processing time reduction
-- Integrated Algolia search into MongoDB + GCP pipelines sustaining 50K+ queries/day
-- Automated dashboards saving 16 hours/week across 3 teams
-- Implemented CI/CD testing improving defect detection by 30%
-- Optimized query performance by 2.3x on 10M+ records using Databricks + PySpark
-
-**Chief Technical Officer** | D.S Tutoring Center | Mar 2024 - Present
-- Generated $25K+ revenue in 8 months while maintaining 95% pass rate
-- Built automated grading dashboards for 120+ students reducing workload by 80%
-- Developed exam management portal streamlining operations for 7 staff members
+*used:* Spring Boot, Vue.js, PostgreSQL, Docker, JWT
 
 ---
 
-## GitHub Stats
+### 📝 [AI Meeting Notes Automation](https://github.com/undisputed-deb/ai-meeting-notes)
+**because taking notes is overrated**
+
+automated transcription + AI summaries = 40% productivity boost. one-click PDF export, sentiment analysis, MongoDB for days. your meetings just got way more productive.
+
+*used:* Python, React, Google Gemini, MongoDB, TypeScript
+
+---
+
+### 📄 [AI Resume Analyzer](https://github.com/undisputed-deb/AI-Resume-Analyzer)
+**making your resume not trash**
+
+NLP-powered resume analyzer with instant ATS scoring. 95% accuracy, 60% faster recruiter screening, 35% better candidate matches. basically your resume's best friend.
+
+*used:* Flask, Python, NLP, Google Gemini AI
+
+---
+
+<div align="center">
+
+## 📊 the receipts
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=undisputed-deb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -171,42 +115,70 @@ Real-time collaborative design platform with optimized canvas rendering.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=undisputed-deb&theme=tokyonight&hide_border=true)
 
----
-
-## Key Achievements
-
-- **97.4% ROC-AUC** - Credit Card Fraud Detection System
-- **$25K+ Revenue** - D.S Tutoring Center (8 months)
-- **10K+ Daily Processing** - ETL Pipelines at Thrift Label
-- **85% Coverage** - WCAG Accessibility Implementation
-- **40% Productivity Boost** - AI Meeting Notes Automation
-- **60% Time Reduction** - Backend Processing Optimization
+</div>
 
 ---
 
-## Currently Learning
+## 💼 what i've been up to
 
-- Advanced Machine Learning & Deep Learning
-- Cloud Architecture (AWS, Azure, GCP)
-- Data Engineering with Apache Spark
-- DevOps & Containerization (Docker, Kubernetes)
+**web accessibility & digital systems intern** @ baxter st. camera club  
+*aug 2025 - present*
+- making the web accessible for 500+ digital assets (85% coverage improvement)
+- building APIs that actually work with Firestore/Cloud Functions
+- CI/CD pipelines on Azure DevOps that don't break
+
+**data engineering intern** @ thrift label (blackstone)  
+*jun 2025 - aug 2025*
+- built ETL pipelines processing 10K+ listings daily (60% faster processing)
+- integrated Algolia search handling 50K+ queries/day
+- automated dashboards saving 16 hours/week (you're welcome, team)
+
+**chief technical officer** @ d.s tutoring center  
+*mar 2024 - present*
+- $35K+ revenue in 18 months with 95% student pass rate
+- automated grading dashboards for 85+ students
+- scaled operations 466% (15 to 85+ students)
 
 ---
 
-## Let's Connect
+## 🎯 flex zone
 
-**Based in Bronx, NY | Open to Remote Opportunities**
-
-Available for: Internships | Full-time Opportunities | Collaborations | Open Source Projects
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://debportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/debshrestho/)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:deb86011@gmail.com)
+- 🏆 99.7% accuracy on fraud detection (yeah, i'm kind of a big deal)
+- 💰 $35K+ revenue generated (not bad for a college student)
+- 📈 10K+ daily processing on ETL pipelines
+- ♿ 85% WCAG accessibility coverage
+- 🤖 40% productivity boost with AI automation
+- ⚡ 60% backend optimization (make it fast, make it efficient)
 
 ---
 
-**"Building innovative solutions that drive measurable impact"**
+## 🌱 currently geeking out over
+
+- advanced ML & deep learning (the fun stuff)
+- cloud architecture on AWS/Azure/GCP (all of them, because why not)
+- data engineering with Apache Spark (big data, big fun)
+- DevOps & containerization (Docker, Kubernetes, the whole gang)
+
+---
+
+<div align="center">
+
+## 💬 let's vibe
+
+**based in bronx, ny | open to remote**
+
+available for: internships • full-time gigs • collabs • open source contributions • whatever cool projects you got
+
+[![Portfolio](https://img.shields.io/badge/portfolio-visit_now-FF5722?style=for-the-badge)](https://debshrestho-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-let's_connect-0077B5?style=for-the-badge)](https://linkedin.com/in/debshrestho/)
+[![Email](https://img.shields.io/badge/email-hit_me_up-D14836?style=for-the-badge)](mailto:deb86011@gmail.com)
+
+---
+
+**"building stuff that actually matters (and occasionally breaks)"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=undisputed-deb&color=blueviolet&style=flat-square)
 
-If you find my work interesting, please star the repositories!
+*if this made you smile, drop a ⭐ on the repos*
+
+</div>
