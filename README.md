@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 yo, i'm deb
+#  yo sup y'all , I'm Deb
 
 **breaking stuff and (sometimes) fixing it**
 
@@ -14,15 +14,15 @@
 
 ## 👨‍💻 what's good
 
-CS student @ CCNY who actually enjoys debugging (yeah, i know, weird flex). currently vibing as a web accessibility intern @ baxter st. camera club and was just chilling as a data engineering intern @ thrift label.
+ Honestly, i love making new projects. Prolly, you can see my github repos lots of noob project and some good projects there, whatever I built i just pushed ✌️. Having said that Im the SWE Intern @Mutual of Omaha | Prev Data Engineering Intern @Thrift Label (Blackstone). 
 
-built some cool stuff that people actually use. ran a tutoring center as CTO that pulled in $35K+ while keeping 95% of students passing (because who doesn't love those numbers?).
+built some cool stuff that people actually use. ran a tutoring center as CTO that has 85+ students while  95% of students passing (because who doesn't love those numbers?).Thats my company website https://dstutoringcenter.company/( make sure you should read the reviews of my tutoring Center lol)
 
-**currently obsessed with:** ML models that don't suck, building APIs that actually make sense, and making the web accessible for everyone
+**currently obsessed with:** ML models , building APIs that actually make sense, and making the web accessible for everyone
 
 ---
 
-## 🛠️ tech i mess with
+##  tech i mess with
 
 ```javascript
 const deb = {
@@ -42,7 +42,7 @@ const deb = {
 
 ## 🔥 stuff i've built (that actually works)
 
-### 🎯 [Credit Card Fraud Detection System](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
+###  [Credit Card Fraud Detection System](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
 **the one where i caught the bad guys**
 
 built an ML system that's better at spotting fraud than most humans. 99.7% accuracy across 284K transactions, catching 91.8% of fraud with barely any false alarms. saved an estimated $6,570 per 100 fraud attempts. 
@@ -51,7 +51,7 @@ built an ML system that's better at spotting fraud than most humans. 99.7% accur
 
 ---
 
-### 🤖 [All-in-One Tools](https://github.com/undisputed-deb/all-in-one-tools)
+###  [All-in-One Tools](https://github.com/undisputed-deb/all-in-one-tools)
 **because who doesn't need 10+ tools in one place**
 
 threw together a productivity suite that actually makes life easier. PDF tools, image converters, text utilities - basically everything you didn't know you needed until 2am before a deadline.
@@ -60,7 +60,7 @@ threw together a productivity suite that actually makes life easier. PDF tools, 
 
 ---
 
-### ✨ [PromptPower](https://github.com/undisputed-deb/PromptPower)
+###  [PromptPower](https://github.com/undisputed-deb/PromptPower)
 **making AI prompts not suck**
 
 production-ready tool that transforms your basic AI prompts into something that actually gets you good results. IP-based rate limiting, XSS protection, persistent storage - all the security stuff you need but don't want to build.
@@ -69,7 +69,7 @@ production-ready tool that transforms your basic AI prompts into something that 
 
 ---
 
-### 🧊 [IceBrAIker](https://deb-icebraiker.netlify.app/)
+###  [IceBrAIker](https://deb-icebraiker.netlify.app/)
 **AI-powered conversation starters that don't make you cringe**
 
 RAG pipeline that generates context-aware icebreakers. 70% better retrieval accuracy, 80% less generic garbage, 45% more user engagement. actually fun to use.
@@ -78,7 +78,7 @@ RAG pipeline that generates context-aware icebreakers. 70% better retrieval accu
 
 ---
 
-### 🌱 [Food Waste Management System](https://github.com/undisputed-deb/Food-Waste-Management)
+###  [Food Waste Management System](https://github.com/undisputed-deb/Food-Waste-Management)
 **saving the planet, one meal at a time**
 
 full-stack platform tracking food waste from generation to composting. role-based access control, real-time analytics, containerized deployment. actually making a difference.
@@ -87,7 +87,7 @@ full-stack platform tracking food waste from generation to composting. role-base
 
 ---
 
-### 📝 [AI Meeting Notes Automation](https://github.com/undisputed-deb/ai-meeting-notes)
+###  [AI Meeting Notes Automation](https://github.com/undisputed-deb/ai-meeting-notes)
 **because taking notes is overrated**
 
 automated transcription + AI summaries = 40% productivity boost. one-click PDF export, sentiment analysis, MongoDB for days. your meetings just got way more productive.
@@ -96,7 +96,7 @@ automated transcription + AI summaries = 40% productivity boost. one-click PDF e
 
 ---
 
-### 📄 [AI Resume Analyzer](https://github.com/undisputed-deb/AI-Resume-Analyzer)
+###  [AI Resume Analyzer](https://github.com/undisputed-deb/AI-Resume-Analyzer)
 **making your resume not trash**
 
 NLP-powered resume analyzer with instant ATS scoring. 95% accuracy, 60% faster recruiter screening, 35% better candidate matches. basically your resume's best friend.
@@ -107,7 +107,7 @@ NLP-powered resume analyzer with instant ATS scoring. 95% accuracy, 60% faster r
 
 <div align="center">
 
-## 📊 the receipts
+##  the receipts
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=undisputed-deb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -119,7 +119,7 @@ NLP-powered resume analyzer with instant ATS scoring. 95% accuracy, 60% faster r
 
 ---
 
-## 💼 what i've been up to
+##  what i've been up to
 
 **web accessibility & digital systems intern** @ baxter st. camera club  
 *aug 2025 - present*
@@ -141,18 +141,18 @@ NLP-powered resume analyzer with instant ATS scoring. 95% accuracy, 60% faster r
 
 ---
 
-## 🎯 flex zone
+##  flex zone
 
-- 🏆 99.7% accuracy on fraud detection (yeah, i'm kind of a big deal)
-- 💰 $35K+ revenue generated (not bad for a college student)
-- 📈 10K+ daily processing on ETL pipelines
-- ♿ 85% WCAG accessibility coverage
-- 🤖 40% productivity boost with AI automation
-- ⚡ 60% backend optimization (make it fast, make it efficient)
+-  99.7% accuracy on fraud detection (yeah, i'm kind of a big deal)
+-  $45K+ revenue generated (not bad for a college student)
+-  10K+ daily processing on ETL pipelines
+-  85% WCAG accessibility coverage
+-  40% productivity boost with AI automation
+-  60% backend optimization (make it fast, make it efficient)
 
 ---
 
-## 🌱 currently geeking out over
+##  currently geeking out over
 
 - advanced ML & deep learning (the fun stuff)
 - cloud architecture on AWS/Azure/GCP (all of them, because why not)
@@ -163,9 +163,8 @@ NLP-powered resume analyzer with instant ATS scoring. 95% accuracy, 60% faster r
 
 <div align="center">
 
-## 💬 let's vibe
+##  let's vibe
 
-**based in bronx, ny | open to remote**
 
 available for: internships • full-time gigs • collabs • open source contributions • whatever cool projects you got
 
@@ -175,7 +174,7 @@ available for: internships • full-time gigs • collabs • open source contri
 
 ---
 
-**"building stuff that actually matters (and occasionally breaks)"**
+**"building stuff that actually matters (and occasionally breaks lmao)"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=undisputed-deb&color=blueviolet&style=flat-square)
 
