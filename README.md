@@ -56,7 +56,7 @@ built an ML system that's better at spotting fraud than most humans. 99.7% accur
 
 threw together a productivity suite that actually makes life easier. PDF tools, image converters, text utilities - basically everything you didn't know you needed until 2am before a deadline.
 
-*used:* TypeScript, React, Next.js, a lot of coffee
+*used:* Java, Springboot,  TypeScript, React, Next.js, a lot of coffee
 
 ---
 
