@@ -14,7 +14,7 @@
 
 ## 👨‍💻 what's good
 
- Honestly, i love making new projects. Prolly, you can see my github repos lots of noob project and some good projects there, whatever I built i just pushed ✌️. Having said that Im the SWE Intern @Mutual of Omaha | Prev Data Engineering Intern @Thrift Label (Blackstone). 
+  Honestly, I love making new projects. Prolly, you can check out my  github repos lots of noob projects and some good ones too, whatever I build,i just push✌️. Having said that Im the SWE Intern @Mutual of Omaha | Prev Data Engineering Intern @Thrift Label (Blackstone). 
 
 built some cool stuff that people actually use. ran a tutoring center as CTO that has 85+ students while  95% of students passing (because who doesn't love those numbers?).Thats my company website https://dstutoringcenter.company/( make sure you should read the reviews of my tutoring Center lol)
 
