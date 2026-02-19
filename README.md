@@ -1,6 +1,6 @@
 <div align="center">
 
-#  yo sup y'all , I'm Deb
+#  Hi, I'm Deb
 
 **breaking stuff and (sometimes) fixing it**
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 what's good
+##  what's good
 
   Honestly, I love making new projects. Prolly, you can check out my  github repos lots of noob projects and some good ones too, whatever I build,i just push✌️. Having said that Im the SWE Intern @Mutual of Omaha | Prev Data Engineering Intern @Thrift Label (Blackstone). 
 
@@ -40,7 +40,7 @@ const deb = {
 
 ---
 
-## 🔥 stuff i've built (that actually works)
+##  stuff i've built (that actually works)
 
 ###  [Credit Card Fraud Detection System](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
 **the one where i caught the bad guys**
