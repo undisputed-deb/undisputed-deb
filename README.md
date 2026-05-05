@@ -63,10 +63,7 @@ honestly just love building things. if i think of something, i build it and push
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </a>&nbsp;
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)&nbsp;
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;
-![RAG](https://img.shields.io/badge/RAG_Pipelines-00FFFF?style=flat-square&logoColor=black)
+
 
 </div>
 
@@ -75,7 +72,7 @@ honestly just love building things. if i think of something, i build it and push
 ## ◈ stuff i've shipped
 
 <!-- AURA -->
-### ⚡ [Aura — AI Voice Mock Interview Platform](https://github.com/undisputed-deb) &nbsp;`FLAGSHIP`
+### ⚡ [Aura  AI Voice Mock Interview Platform](https://github.com/undisputed-deb) &nbsp;`FLAGSHIP`
 
 > **the problem:** 80%+ of candidates choke in interviews because they never practice speaking out loud. reading tips does nothing. you need reps.
 
