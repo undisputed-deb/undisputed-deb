@@ -1,36 +1,38 @@
 <!-- CYBERPUNK HEADER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7B2FBE,100:00FFFF&height=160&section=header&text=DEBASHRESTHA%20NANDI&fontSize=42&fontColor=00FFFF&fontAlignY=45&desc=SWE%20Intern%20%40%20Mutual%20of%20Omaha%20%7C%20Builder%20%7C%20Breaker&descAlignY=68&descSize=16&descFontColor=ffffff&animation=twinkling" />
 
-<!-- ANIMATED TYPING SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=1200&color=00FFFF&center=true&vCenter=true&width=720&lines=building+Aura+%E2%86%92+AI+that+actually+preps+you+for+interviews;SWE+Intern+%40+Mutual+of+Omaha+(Fortune+300);prev+%40+Blackstone;97.4%25+ROC-AUC+on+284K+transactions;%2447K+revenue+with+a+95%25+student+pass+rate;i+push+everything+%E2%9C%8C%EF%B8%8F)](https://github.com/undisputed-deb)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=1200&color=00FFFF&center=true&vCenter=true&width=720&lines=building+Aura+%E2%86%92+AI+that+actually+preps+you+for+interviews;SWE+Intern+%40+Mutual+of+Omaha+(Fortune+300);prev+%40+Blackstone;97.4%25+ROC-AUC+on+284K+transactions;%2447K+revenue%2C+95%25+student+pass+rate;i+push+everything+I+build)](https://github.com/undisputed-deb)
 
 </div>
 
 ---
 
-<!-- CONNECT BADGES -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%E2%97%88_PORTFOLIO-00FFFF?style=for-the-badge&logoColor=black)](https://debshrestho-portfolio.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/%E2%97%88_LINKEDIN-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debshrestho/)&nbsp;
-[![Email](https://img.shields.io/badge/%E2%97%88_HIT_ME_UP-FF2D78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deb86011@gmail.com)&nbsp;
-[![DS Tutoring](https://img.shields.io/badge/%E2%97%88_MY_COMPANY-0d0d0d?style=for-the-badge&logoColor=00FFFF)](https://dstutoringcenter.company/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FFFF?style=for-the-badge&logoColor=black)](https://debshrestho-portfolio.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debshrestho/)&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-FF2D78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deb86011@gmail.com)&nbsp;
+[![DS Tutoring](https://img.shields.io/badge/MY_COMPANY-0d0d0d?style=for-the-badge&logoColor=00FFFF)](https://dstutoringcenter.company/)
+
+<img src="https://komarev.com/ghpvc/?username=undisputed-deb&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## ◈ what's good
+## what's good
 
-honestly just love building things. if i think of something, i build it and push it. check the repos, lotta noob stuff early on, some actually solid ones now. SWE intern @ Mutual of Omaha right now, previously data engineering @ Blackstone. also ran a tutoring center as CTO, 120+ students, 95% pass rate, those are the numbers i care about.
+I build things because I want to see if I can. Some of the repos below are noob-era projects, some are the real stuff. Right now I'm a SWE intern at Mutual of Omaha, a Fortune 300 company, and before that I did data engineering at Blackstone.
 
-**currently locked in on:** Aura (biggest project yet), ML systems, APIs that don't suck, making the web accessible for real
+I also run a tutoring center as CTO. 120+ students, 95% pass rate, $47K in revenue last year. Those numbers matter more to me than any badge on this page.
+
+**Locked in on right now:** Aura, the biggest thing I've shipped. ML systems that hold up under real data. APIs that don't fall over. Making the web work for everyone who uses it.
 
 ---
 
-## ◈ the stack
+## the stack
 
 <div align="center">
 
@@ -62,46 +64,41 @@ honestly just love building things. if i think of something, i build it and push
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-</a>&nbsp;
-
+</a>
 
 </div>
 
 ---
 
-## ◈ stuff i've shipped
+## stuff I've shipped
 
-<!-- AURA -->
-### ⚡ [Aura  AI Voice Mock Interview Platform](https://github.com/undisputed-deb) &nbsp;`FLAGSHIP`
+### [Aura — AI Voice Mock Interview Platform](https://github.com/undisputed-deb/AURA) `FLAGSHIP`
 
-> **the problem:** 80%+ of candidates choke in interviews because they never practice speaking out loud. reading tips does nothing. you need reps.
+Most people fail interviews for one reason: they never practice talking out loud. Reading tips doesn't fix that. Reps do.
 
-you upload your resume, pick the company you're interviewing at, and Aura runs a real voice interview with you. it listens in real-time with Groq Whisper, scores you on clarity, depth, and structure, and tells you exactly where you dropped the ball and why.
+Upload your resume, name the company you're interviewing at, and Aura runs a real voice interview with you. Groq Whisper transcribes you live, Gemini scores your answers on clarity and depth, and it tells you exactly where you fell short and why.
 
 ```yaml
 impact:
-  problem_targeted:  "80%+ interview failure from zero real practice"
-  solution:          "full voice pipeline: resume parsing + live interview + AI scoring"
-  coverage:          "resume grill + company-specific prep + STAR coaching + progress tracking"
+  problem_targeted:  "candidates fail interviews from zero real practice"
+  solution:          "full voice pipeline: resume parsing, live interview, AI scoring"
+  coverage:          "resume grill, company-specific prep, STAR coaching, progress tracking"
   reliability:       "18+ endpoints, Redis session state, zero auth incidents"
 ```
 
 **stack:**
-`Next.js 15` `FastAPI` `Socket.IO` `PostgreSQL` `Supabase` `Redis (Upstash)` `Groq Whisper` `ElevenLabs` `Google Gemini 1.5` `Clerk` `Stripe` `Remotion`
+`Next.js 16` `FastAPI` `Socket.IO` `PostgreSQL` `Supabase` `Redis (Upstash)` `Groq Whisper` `Google Gemini 2.5 Flash` `OpenAI TTS` `Clerk` `Stripe` `Remotion`
 
 ---
 
-<!-- FRAUD DETECTION -->
-### 🔍 [Credit Card Fraud Detection System](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
+### [Credit Card Fraud Detection System](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
 
-> catching bad guys at 99.7% accuracy
-
-9 ML algorithms + ensemble voting on 284K+ transactions with a brutal 577:1 class imbalance. SMOTE + SMOTE-Tomek + stratified CV to make it work on real-world data.
+9 ML algorithms with ensemble voting, trained on 284K+ transactions with a 577:1 class imbalance. SMOTE and SMOTE-Tomek plus stratified cross-validation to make it hold up on real-world data, not just a clean benchmark.
 
 ```
 ROC-AUC:        97.4%
 Accuracy:       99.7%
-Fraud Recall:   91.8% at only 2.4% false positives
+Fraud Recall:   91.8% at a 2.4% false positive rate
 Business $:     $6,570 saved per 100 fraud attempts
 ```
 
@@ -109,12 +106,9 @@ Business $:     $6,570 saved per 100 fraud attempts
 
 ---
 
-<!-- ALL IN ONE -->
-### 🛠 [All-in-One Document and Media Processing Service](https://github.com/undisputed-deb/all-in-one-tools)
+### [All-in-One Document and Media Processing Service](https://github.com/undisputed-deb/all-in-one-tools)
 
-> 18+ endpoints, one unified service, zero excuses
-
-full-stack platform consolidating PDF tools, image processing, and video ops into one Spring Boot 3.x + React/TypeScript app. JWT auth, bcrypt, CORS, rate limiting, FFmpeg and ImageMagick underneath.
+18+ endpoints, one Spring Boot 3.x + React/TypeScript service, three separate tools I used to run apart now merged into one. PDF, image, and video operations behind JWT auth with bcrypt, CORS, and rate limiting. FFmpeg and ImageMagick do the heavy lifting underneath.
 
 ```
 Concurrent ops:   50+ file operations handled simultaneously
@@ -126,45 +120,39 @@ Workflows merged: 3 separate services into 1
 
 ---
 
-<!-- PROMPTPOWER -->
-### ⚙ [PromptPower](https://github.com/undisputed-deb/PromptPower)
+### [PromptPower](https://github.com/undisputed-deb/PromptPower)
 
-> production-grade prompt optimizer with actual security built in
-
-transforms vague AI prompts into something that gets results. IP-based rate limiting, XSS protection, persistent storage, all the boring security stuff nobody wants to build but everyone needs.
+Turns vague AI prompts into ones that actually get results. IP-based rate limiting, XSS protection, persistent storage — the security work everyone skips until it bites them.
 
 `Next.js 15` `React 19` `Gemini API` `TypeScript`
 
 ---
 
-<!-- FOOD WASTE -->
-### 🌱 [Food Waste Management System](https://github.com/undisputed-deb/Food-Waste-Management)
+### [Food Waste Management System](https://github.com/undisputed-deb/Food-Waste-Management)
 
-full-stack platform tracking food waste from generation to composting. RBAC, real-time analytics, containerized. trying to build something that actually matters.
+Full-stack platform tracking food waste from generation to composting. Role-based access, real-time analytics, containerized deployment.
 
 `Spring Boot` `Vue.js` `PostgreSQL` `Docker` `JWT`
 
 ---
 
-<!-- AI MEETING -->
-### 📋 [AI Meeting Notes Automation](https://github.com/undisputed-deb/ai-meeting-notes)
+### [AI Meeting Notes Automation](https://github.com/undisputed-deb/ai-meeting-notes)
 
-automated transcription + AI summaries, 40% productivity boost. one-click PDF export, sentiment analysis, MongoDB. your meetings just got useful.
+Automated transcription and AI summaries that cut a 40% chunk off meeting follow-up time. One-click PDF export, sentiment analysis, MongoDB behind it.
 
 `Python` `React` `Google Gemini` `MongoDB` `TypeScript`
 
 ---
 
-<!-- RESUME ANALYZER -->
-### 📄 [AI Resume Analyzer](https://github.com/undisputed-deb/AI-Resume-Analyzer)
+### [AI Resume Analyzer](https://github.com/undisputed-deb/AI-Resume-Analyzer)
 
-NLP-powered resume analyzer with instant ATS scoring. 95% accuracy, 60% faster recruiter screening, 35% better candidate matches.
+NLP-powered resume scoring against ATS criteria. 95% accuracy, cuts recruiter screening time by 60%, improves candidate-role matching by 35%.
 
 `Flask` `Python` `NLP` `Google Gemini AI`
 
 ---
 
-## ◈ the receipts
+## the receipts
 
 <div align="center">
 
@@ -181,27 +169,27 @@ NLP-powered resume analyzer with instant ATS scoring. 95% accuracy, 60% faster r
 
 ---
 
-## ◈ experience
+## experience
 
-**Software Engineer Intern** @ **Mutual of Omaha** *(Fortune 300)*
-`Jan 2026 - Present` Omaha, Nebraska
-Spring Boot + Groovy microservices, mainframe-to-microservice migration serving 3M+ policyholders, IIB to GitHub modernization, Spock testing, Kubernetes/Docker deployments
+**Software Engineer Intern** — **Mutual of Omaha** *(Fortune 300)*
+`Jan 2026 – Present` · Omaha, Nebraska
+Spring Boot + Groovy microservices for a mainframe-to-microservice migration serving 3M+ policyholders. Moved IIB integrations to GitHub-based workflows. Spock testing, Kubernetes and Docker deployments.
 
-**Data Engineering Intern** @ **Blackstone**
-`Jun 2025 - Aug 2025` Manhattan, NY
-ETL pipelines at 10K+ listings/day, Algolia at 50K+ queries/day, PowerBI dashboards saving 16 hrs/week, Databricks + PySpark 2.3x query improvement
+**Data Engineering Intern** — **Blackstone**
+`Jun 2025 – Aug 2025` · Manhattan, NY
+ETL pipelines processing 10K+ listings a day. Algolia search at 50K+ queries a day. PowerBI dashboards that saved the team 16 hours a week. Databricks and PySpark work that cut query time by 2.3x.
 
-**Software Engineering Intern** @ **Baxter St. Camera Club**
-`Sept 2025 - Dec 2025` Manhattan, NY
-WCAG 2.1 AA on 500+ assets, Firestore/Cloud Functions APIs, Azure DevOps CI/CD
+**Software Engineering Intern** — **Baxter St. Camera Club**
+`Sept 2025 – Dec 2025` · Manhattan, NY
+Brought 500+ digital assets to WCAG 2.1 AA. Built APIs on Firestore and Cloud Functions. Set up CI/CD on Azure DevOps.
 
-**Chief Technical Officer** @ **D.S Tutoring Center**
-`Mar 2024 - Present` Bronx, NY
-$47K+ revenue last year, 120+ students, 95% pass rate, full-stack exam portal
+**Chief Technical Officer** — **D.S. Tutoring Center**
+`Mar 2024 – Present` · Bronx, NY
+$47K+ revenue last year, 120+ students, 95% pass rate. Built the full-stack exam portal myself.
 
 ---
 
-## ◈ numbers that hit
+## numbers that hit
 
 <div align="center">
 
@@ -214,36 +202,34 @@ $47K+ revenue last year, 120+ students, 95% pass rate, full-stack exam portal
 | WCAG accessibility coverage | **85%** |
 | student pass rate | **95%** |
 | weekly hours saved with dashboards | **16 hrs** |
-| false positive rate (fraud model) | **2.4%** |
+| false positive rate, fraud model | **2.4%** |
 
 </div>
 
 ---
 
-## ◈ currently locked in on
+## currently locked in on
 
-- Aura, making it the go-to interview prep tool
-- advanced ML + deep learning (the actually fun stuff)
-- cloud architecture across AWS/GCP/Azure
+- Aura — making it the go-to interview prep tool
+- advanced ML and deep learning
+- cloud architecture across AWS, GCP, and Azure
 - data engineering with Apache Spark
 
 ---
 
 <div align="center">
 
-## ◈ let's build something
+## let's build something
 
-open for: **internships** **collabs** **open source** **cool projects in general**
+Open for internships, collabs, open source, and cool projects in general.
 
-[![Portfolio](https://img.shields.io/badge/%E2%97%88_PORTFOLIO-00FFFF?style=for-the-badge&logoColor=black)](https://debshrestho-portfolio.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/%E2%97%88_LINKEDIN-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debshrestho/)&nbsp;
-[![Email](https://img.shields.io/badge/%E2%97%88_EMAIL-FF2D78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deb86011@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FFFF?style=for-the-badge&logoColor=black)](https://debshrestho-portfolio.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debshrestho/)&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-FF2D78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deb86011@gmail.com)
 
 ---
 
-**`"i push everything, the good stuff, the bad stuff, the 3am stuff. all of it." ✌️`**
-
-![Profile Views](https://komarev.com/ghpvc/?username=undisputed-deb&color=00FFFF&style=flat-square&label=PROFILE+VIEWS)
+**"I push everything — the good stuff, the bad stuff, the 3am stuff. All of it."**
 
 </div>
 
