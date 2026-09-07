@@ -1,259 +1,192 @@
-<!-- CYBERPUNK HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7B2FBE,100:00FFFF&height=160&section=header&text=DEBASHRESTHA%20NANDI&fontSize=42&fontColor=00FFFF&fontAlignY=45&desc=SWE%20Intern%20%40%20Mutual%20of%20Omaha%20%7C%20Builder%20%7C%20Breaker&descAlignY=68&descSize=16&descFontColor=ffffff&animation=twinkling" />
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=1200&color=00FFFF&center=true&vCenter=true&width=760&lines=just+shipped+FinAdvisor+%E2%86%92+portfolio+analysis+that+gives+real+verdicts;built+Aura+%E2%86%92+AI+that+runs+you+through+a+voice+interview;SWE+Intern+%40+Mutual+of+Omaha+(Fortune+300);prev+%40+Blackstone;97.4%25+ROC-AUC+on+284K+transactions;%2447K+revenue%2C+95%25+student+pass+rate;i+push+everything+I+build)](https://github.com/undisputed-deb)
-
-</div>
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FFFF?style=for-the-badge&logoColor=black)](https://deb-portfolio-2flw.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debshrestho/)&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-FF2D78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deb86011@gmail.com)&nbsp;
-[![DS Tutoring](https://img.shields.io/badge/MY_COMPANY-0d0d0d?style=for-the-badge&logoColor=00FFFF)](https://dstutoringcenter.company/)
-
-<img src="https://komarev.com/ghpvc/?username=undisputed-deb&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://visitcount.itsvg.in/api?id=undisputed-deb&label=Views&color=6&icon=5&pretty=true" />
-
-</div>
-
----
-
-## what's good
-
-I build things to find out whether I can. Some repos below are noob-era experiments. Some are the real stuff. Right now I'm a SWE intern at Mutual of Omaha, a Fortune 300 company, and before that I did data engineering at Blackstone.
-
-I also run a tutoring center as CTO. 120+ students, 95% pass rate, $47K revenue last year. Those numbers mean more to me than any badge on this page.
-
-**Locked in right now:** FinAdvisor and Aura, the two biggest things I've shipped. ML systems that survive real data. APIs that stay up. Web that works for everyone who touches it.
-
----
-
-## the stack
-
-<div align="center">
-
-**languages**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp&theme=dark" />
-</a>
-
-**backend and infra**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,django,nodejs,docker,kubernetes,redis&theme=dark" />
-</a>
-
-**frontend**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue&theme=dark" />
-</a>
-
-**data and cloud**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase,aws,gcp,azure&theme=dark" />
-</a>
-
-**ai and ml**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-</a>
-
-</div>
-
----
-
-## stuff I've shipped
-
-### [FinAdvisor — Portfolio Analysis Dashboard](https://github.com/undisputed-deb/Stock_predictor) `NEW`
-
-Most portfolio trackers show you a pie chart and stop there. FinAdvisor gives you a verdict on every position.
-
-Paste your holdings or drop a broker screenshot. The tool scores your financial health, checks your emergency fund runway and cash flow, then rates each position buy, hold, trim, or sell with an entry-price grade, a target, a stop-loss, and a DCA size. A what-if drawer recalculates weights, yield, and concentration before you place a trade. Gap analysis flags the sectors you're missing. Everything exports to a PDF report.
-
-```yaml
-what_it_does:
-  health_score:     "net worth, emergency fund runway, cash flow"
-  per_position:     "buy/hold/trim/sell verdict, entry grade, target, stop, DCA size"
-  scenario_drawer:  "recompute weights, yield, concentration before you trade"
-  gap_analysis:     "new positions to close sector gaps and cut concentration risk"
-  benchmarking:     "portfolio vs S&P 500, year-long rebalance simulation"
-  export:           "full PDF portfolio report"
+```text
+    ____  _____ ____
+   |  _ \| ____| __ )    DEBASHRESTHA NANDI
+   | | | |  _| |  _ \    ─────────────────────────────────────────
+   | |_| | |___| |_) |   swe intern  ·  mutual of omaha (fortune 300)
+   |____/|_____|____/     prev        ·  data engineering  ·  blackstone
+                          cto         ·  d.s. tutoring center
 ```
 
-**stack:**
-`Next.js 14` `TypeScript` `Tailwind CSS` `Recharts` `TanStack Query` `Zustand` `FastAPI` `pandas` `yfinance` `Google Gemini`
+> I build things to find out whether I can. Some repos here are experiments from
+> when I was learning. Some run in production and people depend on them. Whatever
+> it is, I push it.
 
----
+`Omaha, Nebraska`  &nbsp;·&nbsp;  [portfolio](https://deb-portfolio-2flw.vercel.app/)  &nbsp;·&nbsp;  [linkedin](https://linkedin.com/in/debshrestho/)  &nbsp;·&nbsp;  [email](mailto:deb86011@gmail.com)  &nbsp;·&nbsp;  [my company](https://dstutoringcenter.company/)
 
-### [Aura — AI Voice Mock Interview Platform](https://github.com/undisputed-deb/AURA) `FLAGSHIP`
+<img src="https://profile-counter.glitch.me/undisputed-deb/count.svg" alt="visitor count" />
 
-People lose interviews for one reason: they never practice talking out loud. Reading tips doesn't fix that. Reps do.
+## now
 
-Upload your resume, name the company, and Aura runs a real voice interview. Groq Whisper transcribes you live, Gemini scores your answers on clarity and depth, and it tells you where you fell short and why. It grills you on your own resume, preps you company by company, coaches STAR structure, and tracks your progress across sessions.
+Two builds have my attention. **FinAdvisor**, a portfolio tool that gives a real
+verdict on every position instead of a pie chart. **Aura**, an AI that runs you
+through a full voice interview and tells you where you cracked. Everything else is
+ML that survives real data and APIs that stay up.
 
-```yaml
-impact:
-  problem_targeted:  "candidates fail interviews from zero real practice"
-  solution:          "full voice pipeline: resume parsing, live interview, AI scoring"
-  coverage:          "resume grill, company-specific prep, STAR coaching, progress tracking"
-  reliability:       "18+ endpoints, Redis session state, zero auth incidents"
-```
+## shiplog
 
-**stack:**
-`Next.js 16` `FastAPI` `Socket.IO` `SQLAlchemy 2.0` `PostgreSQL` `Supabase` `Redis (Upstash)` `Groq Whisper` `Google Gemini 2.5 Flash` `OpenAI TTS` `Clerk` `Stripe` `Remotion`
+### FinAdvisor  ·  portfolio analysis dashboard
 
----
-
-### [Credit Card Fraud Detection System](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
-
-9 ML algorithms with ensemble voting, trained on 284K+ transactions at a 577:1 class imbalance. SMOTE and SMOTE-Tomek plus stratified cross-validation so it holds up on real-world data instead of a clean benchmark.
+Paste your holdings or drop a broker screenshot. FinAdvisor scores your financial
+health, checks emergency fund runway and cash flow, then rates every position buy,
+hold, trim, or sell with an entry grade, a target, a stop loss, and a DCA size. A
+what if drawer recomputes weights, yield, and concentration before you place a
+trade. Gap analysis flags the sectors you are missing. All of it exports to a PDF.
 
 ```
-ROC-AUC:        97.4%
-Accuracy:       99.7%
-Fraud Recall:   91.8% at a 2.4% false positive rate
-Business $:     $6,570 saved per 100 fraud attempts
+verdict engine     buy / hold / trim / sell per position
+health score       net worth, runway, cash flow
+scenario drawer    recompute weights, yield, concentration pre trade
+benchmarking       portfolio vs S&P 500, year long rebalance sim
+output             full PDF portfolio report
 ```
 
-`Python` `XGBoost` `scikit-learn` `SMOTE` `pandas` `matplotlib` `seaborn`
+**built with** &nbsp; Next.js 14 &nbsp; TypeScript &nbsp; Tailwind &nbsp; Recharts &nbsp; TanStack Query &nbsp; Zustand &nbsp; FastAPI &nbsp; pandas &nbsp; yfinance &nbsp; Gemini
 
----
+[repo](https://github.com/undisputed-deb/Stock_predictor)
 
-### [All-in-One Document and Media Processing Service](https://github.com/undisputed-deb/all-in-one-tools)
+### Aura  ·  AI voice mock interview platform
 
-18+ endpoints, one Spring Boot 3.x + React/TypeScript service, three tools I used to run apart now merged into one. PDF, image, and video operations behind JWT auth with bcrypt, CORS, and rate limiting. FFmpeg and ImageMagick do the heavy lifting.
+People lose interviews because they never practice talking out loud. Reading tips
+does nothing. Reps do. Upload your resume, name the company, and Aura runs a live
+voice interview. Groq Whisper transcribes you in real time, Gemini scores clarity
+and depth, and it tells you exactly where you fell short. It grills you on your own
+resume, preps you company by company, coaches STAR structure, and tracks progress
+across sessions.
 
 ```
-Concurrent ops:   50+ file operations at once
-Auth incidents:   0
-Workflows merged: 3 services into 1
+pipeline       resume parse, live voice interview, AI scoring
+coverage       resume grill, company prep, STAR coaching, progress
+surface        18+ endpoints, Redis session state
+security       zero auth incidents, Stripe webhook verification
 ```
 
-`Java` `Spring Boot 3.x` `React` `TypeScript` `Tailwind CSS` `FFmpeg` `ImageMagick`
+**built with** &nbsp; Next.js 16 &nbsp; FastAPI &nbsp; Socket.IO &nbsp; SQLAlchemy 2.0 &nbsp; PostgreSQL &nbsp; Supabase &nbsp; Redis &nbsp; Groq Whisper &nbsp; Gemini 2.5 Flash &nbsp; OpenAI TTS &nbsp; Clerk &nbsp; Stripe
 
----
+[repo](https://github.com/undisputed-deb/AURA)
 
-### [PromptPower](https://github.com/undisputed-deb/PromptPower)
+### Credit Card Fraud Detection
 
-Turns vague AI prompts into ones that get results. IP-based rate limiting, XSS protection, persistent storage. The security work most people skip until it bites them.
+Nine ML algorithms with ensemble voting, trained on 284K+ transactions at a 577 to
+1 class imbalance. SMOTE plus Tomek links and stratified k fold so it holds up on
+real data, not a clean benchmark.
 
-`Next.js 15` `React 19` `Gemini API` `TypeScript`
+```
+roc auc            97.4%
+accuracy           99.7%
+fraud recall       91.8% at a 2.4% false positive rate
+money saved        $6,570 per 100 fraud attempts
+```
 
----
+**built with** &nbsp; Python &nbsp; XGBoost &nbsp; scikit-learn &nbsp; SMOTE &nbsp; pandas &nbsp; matplotlib &nbsp; seaborn
 
-### [Food Waste Management System](https://github.com/undisputed-deb/Food-Waste-Management)
+[repo](https://github.com/undisputed-deb/Credit-Card-Fraud-Detection-System)
 
-Full-stack platform tracking food waste from generation to composting. Role-based access, real-time analytics, containerized deployment.
+### All in One  ·  document and media processing
 
-`Spring Boot` `Vue.js` `PostgreSQL` `Docker` `JWT`
+Eighteen plus endpoints, one Spring Boot 3.x and React service, three tools I used
+to run apart now merged into one. PDF, image, and video operations behind JWT auth
+with bcrypt, CORS, and rate limiting. FFmpeg and ImageMagick do the heavy lifting.
 
----
+```
+concurrency        50+ file operations at once
+auth incidents     0
+consolidation      3 services into 1
+```
 
-### [AI Meeting Notes Automation](https://github.com/undisputed-deb/ai-meeting-notes)
+**built with** &nbsp; Java &nbsp; Spring Boot 3.x &nbsp; React &nbsp; TypeScript &nbsp; Tailwind &nbsp; FFmpeg &nbsp; ImageMagick
 
-Automated transcription and AI summaries that cut meeting follow-up time by 40%. One-click PDF export, sentiment analysis, MongoDB behind it.
+[repo](https://github.com/undisputed-deb/all-in-one-tools)
 
-`Python` `React` `Google Gemini` `MongoDB` `TypeScript`
+### PromptPower
 
----
+Turns vague AI prompts into ones that get results. IP based rate limiting, XSS
+protection, persistent storage. The security work most people skip until it bites.
 
-### [AI Resume Analyzer](https://github.com/undisputed-deb/AI-Resume-Analyzer)
+**built with** &nbsp; Next.js 15 &nbsp; React 19 &nbsp; Gemini API &nbsp; TypeScript
 
-NLP resume scoring against ATS criteria. 95% accuracy, cuts recruiter screening time by 60%, improves candidate-role matching by 35%.
+[repo](https://github.com/undisputed-deb/PromptPower)
 
-`Flask` `Python` `NLP` `Google Gemini AI`
+### Food Waste Management
 
----
+Full stack platform tracking food waste from generation to composting. Role based
+access, real time analytics, containerized deployment.
 
-## the receipts
+**built with** &nbsp; Spring Boot &nbsp; Vue.js &nbsp; PostgreSQL &nbsp; Docker &nbsp; JWT
 
-<div align="center">
+[repo](https://github.com/undisputed-deb/Food-Waste-Management)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=undisputed-deb&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=7B2FBE&text_color=ffffff&bg_color=0d0d0d&ring_color=FF2D78&hide=issues" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undisputed-deb&layout=compact&hide_border=true&langs_count=8&title_color=00FFFF&text_color=ffffff&bg_color=0d0d0d&hide=html,css,jupyter%20notebook" />
+### AI Meeting Notes
 
-<img width="55%" src="https://streak-stats.demolab.com/?user=undisputed-deb&hide_border=true&ring=00FFFF&fire=FF2D78&currStreakLabel=00FFFF&background=0d0d0d&stroke=7B2FBE&dates=ffffff&sideLabels=ffffff&sideNums=00FFFF&currStreakNum=FF2D78" />
+Automated transcription and AI summaries that cut meeting follow up time by 40
+percent. One click PDF export, sentiment analysis, MongoDB behind it.
 
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=undisputed-deb&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+**built with** &nbsp; Python &nbsp; React &nbsp; Gemini &nbsp; MongoDB &nbsp; TypeScript
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=undisputed-deb&bg_color=0d0d0d&color=00FFFF&line=7B2FBE&point=FF2D78&area=true&hide_border=true" />
+[repo](https://github.com/undisputed-deb/ai-meeting-notes)
 
-</div>
+### AI Resume Analyzer
 
----
+NLP resume scoring against ATS criteria. 95 percent accuracy, cuts recruiter
+screening time by 60 percent, improves candidate to role matching by 35 percent.
 
-## experience
+**built with** &nbsp; Flask &nbsp; Python &nbsp; NLP &nbsp; Gemini
 
-**Software Engineer Intern** — **Mutual of Omaha** *(Fortune 300)*
-`Jan 2026 – Present` · Omaha, Nebraska
-Spring Boot + Groovy microservices for a mainframe-to-microservice migration serving 3M+ policyholders. Moved IIB integrations to GitHub-based workflows. Spock testing, Kubernetes and Docker deployments.
+[repo](https://github.com/undisputed-deb/AI-Resume-Analyzer)
 
-**Data Engineering Intern** — **Blackstone**
-`Jun 2025 – Aug 2025` · Manhattan, NY
-ETL pipelines processing 10K+ listings a day. Algolia search at 50K+ queries a day. PowerBI dashboards that saved the team 16 hours a week. Databricks and PySpark work that cut query time by 2.3x.
+## track record
 
-**Software Engineering Intern** — **Baxter St. Camera Club**
-`Sept 2025 – Dec 2025` · Manhattan, NY
-Brought 500+ digital assets to WCAG 2.1 AA. Built APIs on Firestore and Cloud Functions. Set up CI/CD on Azure DevOps.
+```
+fraud model accuracy                       99.7%
+revenue generated at the tutoring center   $47K+
+policyholders served via microservices     3M+
+daily ETL throughput at blackstone         10K+ listings
+query time cut with databricks + pyspark   2.3x
+weekly hours saved by my dashboards        16
+student pass rate                          95%
+students taught                            120+
+wcag coverage on 500+ assets               85%
+```
 
-**Chief Technical Officer** — **D.S. Tutoring Center**
-`Mar 2024 – Present` · Bronx, NY
-$47K+ revenue last year, 120+ students, 95% pass rate. Built the full-stack exam portal myself.
+## where I have worked
 
----
+**Software Engineer Intern**  ·  Mutual of Omaha (Fortune 300)
+`Jan 2026 to now`  ·  Omaha, Nebraska
+Spring Boot and Groovy microservices for a mainframe to microservice migration
+serving 3M+ policyholders. Moved IIB integrations onto GitHub based workflows.
+Spock testing, Kubernetes and Docker deployments.
 
-## numbers that hit
+**Data Engineering Intern**  ·  Blackstone
+`Jun 2025 to Aug 2025`  ·  Manhattan, New York
+ETL pipelines processing 10K+ listings a day. Algolia search at 50K+ queries a
+day. PowerBI dashboards that saved the team 16 hours a week. Databricks and
+PySpark work that cut query time by 2.3x.
 
-<div align="center">
+**Software Engineering Intern**  ·  Baxter St. Camera Club
+`Sept 2025 to Dec 2025`  ·  Manhattan, New York
+Brought 500+ digital assets to WCAG 2.1 AA. Built APIs on Firestore and Cloud
+Functions. Set up CI/CD on Azure DevOps.
 
-| metric | number |
-|---|---|
-| ML fraud detection accuracy | **99.7%** |
-| revenue generated | **$47K+** |
-| policyholders served via microservices | **3M+** |
-| daily ETL throughput | **10K+ listings** |
-| WCAG accessibility coverage | **85%** |
-| student pass rate | **95%** |
-| weekly hours saved with dashboards | **16 hrs** |
-| false positive rate, fraud model | **2.4%** |
+**Chief Technical Officer**  ·  D.S. Tutoring Center
+`Mar 2024 to now`  ·  Bronx, New York
+$47K+ revenue last year, 120+ students, 95 percent pass rate. Built the full stack
+exam portal myself.
 
-</div>
+## stack
 
----
+```
+languages     Python · Java · TypeScript · C++ · JavaScript
+backend       Spring Boot · FastAPI · Flask · Django · Node
+frontend      React · Next.js · Vue · Tailwind
+data + cloud  PostgreSQL · MongoDB · Supabase · AWS · GCP · Azure · Docker · Kubernetes · Redis
+ml            PyTorch · TensorFlow · scikit-learn · XGBoost
+```
 
-## currently locked in on
+## reach me
 
-- FinAdvisor and Aura, pushing both toward real users
-- advanced ML and deep learning
-- cloud architecture across AWS, GCP, and Azure
-- data engineering with Apache Spark
+Open for internships, collabs, open source, and interesting problems.
 
----
+[portfolio](https://deb-portfolio-2flw.vercel.app/) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/debshrestho/) &nbsp;·&nbsp; [email](mailto:deb86011@gmail.com)
 
-<div align="center">
-
-## let's build something
-
-Open for internships, collabs, open source, and interesting problems in general.
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FFFF?style=for-the-badge&logoColor=black)](https://deb-portfolio-2flw.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debshrestho/)&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-FF2D78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deb86011@gmail.com)
-
----
-
-**"I push everything. The good stuff, the bad stuff, the 3am stuff. All of it."**
-
-</div>
-
-<!-- CYBERPUNK FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:7B2FBE,100:0d0d0d&height=120&section=footer&animation=twinkling" />
+```text
+I push everything. The good, the bad, the 3am commits. All of it.
+```
